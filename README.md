@@ -49,11 +49,11 @@ To define relevant KPIs and visualize gender balance insights across hiring, pro
 
 ## 📷 Screenshots
 
-![Dashboard 1]<img width="1167" height="652" alt="image" src="https://github.com/user-attachments/assets/c5ce1e5d-fd40-48bc-acaf-beed67d33b70" />
+[Dashboard 1]<img width="1167" height="652" alt="image" src="https://github.com/user-attachments/assets/c5ce1e5d-fd40-48bc-acaf-beed67d33b70" />
 
-![Dashboard 2]<img width="1168" height="654" alt="image" src="https://github.com/user-attachments/assets/09e9e18e-2187-49b1-89d5-3e07a59b3c4b" />
+[Dashboard 2]<img width="1168" height="654" alt="image" src="https://github.com/user-attachments/assets/09e9e18e-2187-49b1-89d5-3e07a59b3c4b" />
 
-![Dashboard 3]<img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/93f42500-e2bd-43c2-82ba-899a7602b557" />
+[Dashboard 3]<img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/93f42500-e2bd-43c2-82ba-899a7602b557" />
 
 ---
 
